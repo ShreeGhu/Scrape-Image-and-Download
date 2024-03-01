@@ -32,7 +32,7 @@ def imagedown(url, folder):
 
 # URLs of webpages containing images
 urls = [
-    'https://www.rockpapershotgun.com/palworld-pal-list',
+    'https://example.com',
 ]
 
 # Download images from each URL
